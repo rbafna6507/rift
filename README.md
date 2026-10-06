@@ -1,7 +1,11 @@
-# rift - Distributed File Transfer
+code # rift - Distributed File Transfer
 
 
 A secure, peer-to-peer file transfer tool with relay fallback support.
+
+![til](rift_demo_gif.gif)
+
+
 
 ## Prerequisites
 
